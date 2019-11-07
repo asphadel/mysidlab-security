@@ -1,8 +1,8 @@
 ---
 users:
-  - name: user1
+  - name: jo_user1_delete_me
     aws_groups: "sacramento, fresno, indio"
-  - name: user2
+  - name: jo_user2_delete_me
     aws_groups: "losangeles, sanfransisco, napa"
-  - name: user3
+  - name: jo_user3_delete-me
     aws_groups: "palmsprings, indio, sandiego"
